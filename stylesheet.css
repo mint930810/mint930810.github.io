@@ -1,0 +1,111 @@
+header {
+  height: 85px;
+  width: 100%;
+  background-color: rgba(162, 5, 177, 0.589);
+}
+
+header h1 {
+  padding: 20px;
+  color: aliceblue;
+}
+
+.container {
+  width: 1170px ;
+  padding: 0 15px ;
+  margin:0 auto;
+}
+
+.top-wrapper {
+  padding: 100px 0 20px 0;
+  background-image:url(https://www.pakutaso.com/shared/img/thumb/kirigamine-6_TP_V.jpg);
+  background-size: cover;
+  color: whitesmoke;
+  text-align:center;
+}
+
+.top-wrapper img {
+  width: 400px;
+  height: 400px;
+  border-radius: 10px;
+}
+
+.top-wrapper h1 {
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+.top-wrapper p {
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.details-wrapper {
+  height: 300px;
+  font-size: 20px;
+  padding: 20px;
+  background-color: #bf40ff3a;
+  color: rgb(87, 84, 84);
+
+}
+
+
+.detail-icon {
+   background-color: aquamarine;
+   padding:8px 24px;
+   color: rgb(87, 84, 84);
+   font-weight: bold;
+   width: 400px;
+   text-align: center;
+   border-radius: 10px;
+   margin: 15px;
+   opacity: 0.9;
+}
+ 
+.left-detail {
+  float: left;
+  padding-left: 100px;
+}
+
+.right-detail {
+  float: right;
+  padding-right: 100px;
+}
+
+.hobbies-wrapper {
+  color: rgb(87, 84, 84);
+  background-color: #bf40ff3a;
+  height: 700px;
+  padding-bottom: 50px;
+
+}
+
+.title {
+  padding: 5px;
+  border-bottom: 1px solid #302e31;
+  margin-bottom: 15px;
+} 
+.title h1 {
+  margin-bottom: 5px;
+}
+
+.hobby {
+  float: left;
+  width: 33%;
+}
+
+
+.hobby_title{
+  padding-bottom: 10px;
+}
+
+.hobby p {
+  width: 80%;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0px;
+}
+
+.hobby img {
+  width: 300px;
+  height: 300px;
+}
