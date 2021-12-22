@@ -7,6 +7,7 @@ header {
 header h1 {
   padding: 20px;
   color: aliceblue;
+  margin: auto;
 }
 
 .container {
@@ -74,7 +75,7 @@ header h1 {
 .hobbies-wrapper {
   color: rgb(87, 84, 84);
   background-color: #bf40ff3a;
-  height: 700px;
+  height: 400px;
   padding-bottom: 50px;
 
 }
