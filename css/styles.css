@@ -16,6 +16,10 @@ header h1 {
   margin:0 auto;
 }
 
+body {
+  margin: 0;
+}
+
 .top-wrapper {
   padding: 100px 0 20px 0;
   background-image:url(https://www.pakutaso.com/shared/img/thumb/kirigamine-6_TP_V.jpg);
@@ -61,6 +65,11 @@ header h1 {
    margin: 15px;
    opacity: 0.9;
 }
+
+.detail-icon p {
+  text-align: center;
+}
+
  
 .left-detail {
   float: left;
@@ -75,8 +84,8 @@ header h1 {
 .hobbies-wrapper {
   color: rgb(87, 84, 84);
   background-color: #bf40ff3a;
-  height: 400px;
-  padding-bottom: 50px;
+  height: 600px;
+  padding: 50px 50px;
 
 }
 
@@ -92,6 +101,7 @@ header h1 {
 .hobby {
   float: left;
   width: 33%;
+  text-align: center;
 }
 
 
@@ -102,7 +112,7 @@ header h1 {
 .hobby p {
   width: 80%;
   display: inline-block;
-  font-size: 20px;
+  font-size: 15px;
   margin: 0px;
 }
 
