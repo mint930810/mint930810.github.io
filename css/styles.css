@@ -73,17 +73,6 @@ body {
   text-align: center;
 }
 
- 
-.left-detail {
-  float: left;
-  padding-left: 100px;
-}
-
-.right-detail {
-  float: right;
-  padding-right: 100px;
-}
-
 .hobbies-wrapper {
   color: rgb(87, 84, 84);
   background-color: #bf40ff3a;
